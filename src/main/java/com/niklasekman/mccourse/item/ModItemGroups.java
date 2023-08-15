@@ -1,6 +1,7 @@
 package com.niklasekman.mccourse.item;
 
 import com.niklasekman.mccourse.MCCourseMod;
+import com.niklasekman.mccourse.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
@@ -17,6 +18,7 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
                         entries.add(ModItems.RUBY);
                         entries.add(ModItems.RAW_RUBY);
+                        entries.add(ModBlocks.RUBY_BLOCK);
                     }).build());
     public static void registerItemGroups() {
         MCCourseMod.LOGGER.info("Registering Item Groups for " + MCCourseMod.MOD_ID);

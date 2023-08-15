@@ -2,5 +2,7 @@
   "item.mccourse.ruby": "Ruby",
   "item.mccourse.raw_ruby": "Raw Ruby",
 
+  "block.mccourse.ruby_block": "Block of ruby",
+
   "itemgroup.ruby": "Rubies"
 }

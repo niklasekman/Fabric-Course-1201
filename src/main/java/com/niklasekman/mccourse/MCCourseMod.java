@@ -1,5 +1,6 @@
 package com.niklasekman.mccourse;
 
+import com.niklasekman.mccourse.block.ModBlocks;
 import com.niklasekman.mccourse.item.ModItemGroups;
 import com.niklasekman.mccourse.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -15,5 +16,6 @@ public class MCCourseMod implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
