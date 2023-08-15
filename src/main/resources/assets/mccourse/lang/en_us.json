@@ -3,6 +3,7 @@
   "item.mccourse.raw_ruby": "Raw Ruby",
 
   "block.mccourse.ruby_block": "Block of ruby",
+  "block.mccourse.raw_ruby_block": "Block of raw ruby",
 
   "itemgroup.ruby": "Rubies"
 }
