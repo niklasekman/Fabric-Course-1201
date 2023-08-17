@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mccourse:ruby_block",
+    "mccourse:raw_ruby_block",
+    "mccourse:deepslate_ruby_ore",
+    "mccourse:end_stone_ruby_ore",
+    "mccourse:nether_ruby_ore",
+    "mccourse:ruby_ore"
+  ]
+}

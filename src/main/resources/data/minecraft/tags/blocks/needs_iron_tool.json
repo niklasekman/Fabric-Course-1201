@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "mccourse:ruby_block",
+    "mccourse:raw_ruby_block"
+  ]
+}

@@ -5,5 +5,10 @@
   "block.mccourse.ruby_block": "Block of ruby",
   "block.mccourse.raw_ruby_block": "Block of raw ruby",
 
+  "block.mccourse.ruby_ore": "Ruby Ore",
+  "block.mccourse.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.mccourse.nether_ruby_ore": "Nether Ruby Ore",
+  "block.mccourse.end_stone_ruby_ore": "End Stone Ruby Ore",
+
   "itemgroup.ruby": "Rubies"
 }
